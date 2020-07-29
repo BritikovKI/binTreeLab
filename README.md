@@ -84,5 +84,5 @@ binSearch.insert(16)
 binSearch.insert(4)
  ```
  
- To accomplish the lab, accomplish the remaining functionality(search and delete by value). If you want to be a realy cool guy, you may also try to remove worst cale of O(n) performance.
+## To accomplish the lab, accomplish the remaining functionality(search and delete by value). If you want to be a realy cool guy, you may also try to remove worst cale of O(n) performance.
  
