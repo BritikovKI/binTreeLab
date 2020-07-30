@@ -10,6 +10,8 @@ Using Ubuntu/Mint you can make it like this:
 ```sh
   sudo apt-get install python3
 ```
+
+In case of Windows step into this link: https://www.python.org/downloads/windows/
  
  After it you may install IDE to simplify your development, I would recommend PyCharm(https://www.jetbrains.com/pycharm/).
  
